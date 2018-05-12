@@ -1,0 +1,31 @@
+_repo: The-Onslaught-from-Rigel_41049
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41049-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Pratt, Fletcher
+    alias: Pratt, Murray Fletcher
+    birthdate: 1897
+    deathdate: 1956
+    gutenberg_agent_id: '40954'
+    url: http://www.gutenberg.org/2009/agents/40954
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2012-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41049'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Extraterrestrial beings -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'War stories'
+- !lcsh 'Human-alien encounters -- Fiction'
+title: The Onslaught from Rigel
+url: http://www.gutenberg.org/ebooks/41049
